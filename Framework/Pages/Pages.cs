@@ -5,15 +5,6 @@ namespace EuroOffice.Framework.Pages
     //This class allows access to system pages through the tests
     public static class Pages
     {
-        //public static void Initilise()
-        //{
-        //    ArrayList pages = new ArrayList();
-
-        //    foreach (var page in pages)
-        //    {
-               
-        //    }
-        //}
 
         public static HomePage HomePage
         {
