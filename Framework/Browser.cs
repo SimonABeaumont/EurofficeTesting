@@ -4,7 +4,7 @@ using System;
 using System.Collections.ObjectModel;
 using System.Reflection;
 
-namespace EuroOffice.Framework
+namespace Euroffice.Framework
 {
     public static class Browser
     {

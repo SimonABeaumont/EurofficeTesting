@@ -3,7 +3,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Support.PageObjects;
 using OpenQA.Selenium.Support.UI;
 
-namespace EuroOffice.Framework.Pages
+namespace Euroffice.Framework.Pages
 {
     public class HomePage : Page
     {

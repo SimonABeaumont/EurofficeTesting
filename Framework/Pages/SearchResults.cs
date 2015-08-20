@@ -2,7 +2,7 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.PageObjects;
 
-namespace EuroOffice.Framework.Pages
+namespace Euroffice.Framework.Pages
 {
     public class SearchResults : Page
     {

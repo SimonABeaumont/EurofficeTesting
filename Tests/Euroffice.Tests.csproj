@@ -6,8 +6,8 @@
     <ProjectGuid>{D12F9215-1EBD-4C07-9BA8-2C49DA0F4C42}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EuroOffice.Tests</RootNamespace>
-    <AssemblyName>EuroOffice.Tests</AssemblyName>
+    <RootNamespace>Euroffice.Tests</RootNamespace>
+    <AssemblyName>Euroffice.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -91,9 +91,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Framework\EuroOffice.Framework.csproj">
+    <ProjectReference Include="..\Framework\Euroffice.Framework.csproj">
       <Project>{ef3a80f5-9cdd-48ec-99d1-bebc78912952}</Project>
-      <Name>EuroOffice.Framework</Name>
+      <Name>Euroffice.Framework</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />

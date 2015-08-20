@@ -1,22 +1,22 @@
 ﻿Feature: Search
-	As a user on the EuroOffice website
+	As a user on the Euroffice website
 	I am able to use the Search feature for products
 
-@EuroOffice
+@Euroffice
 Scenario: Search Feature - for valid results
 	Given That I have gone to the website
 	And I enter the search value 'Pencil'
 	And I click the search button
 	Then successful product search results are shown
 
-@EuroOffice
+@Euroffice
 Scenario: Search Feature - for invalid resuls
 	Given That I have gone to the website
 	And I enter the search value '+---'
 	And I click the search button
 	Then unsucessful search message it shown
 
-@EuroOffice
+@Euroffice
 Scenario: Compare Search Counts with and without speech marks
 	Given That I have gone to the website
 	And I enter the search value 'ink cartridges'
@@ -27,58 +27,58 @@ Scenario: Compare Search Counts with and without speech marks
 	And I click the search button
 	And The search without speech marks should return more records than the one with speech marks
 
-#@EuroOffice
+#@Euroffice
 #Scenario: Check label text above search box
 
-#@EuroOffice
+#@Euroffice
 #Scenario: Check button text
 
-#@EuroOffice
+#@Euroffice
 #Scenario: Check text box default text
 
-#@EuroOffice
+#@Euroffice
 #Scenario: Ensure default text disappears as you enter text in then search text box
 
-#@EuroOffice
+#@Euroffice
 #Scenario: Test Special characters such as *, %, ?, =, >, <, &, [ (and so ..)  in the search box
 
-#@EuroOffice
+#@Euroffice
 #Scenario: Test a range of other non  alpha numeric charcters
 
-#@EuroOffice
+#@Euroffice
 #Scenario: Upper and lower case, effect of search results
 
-#@EuroOffice
+#@Euroffice
 #Scenario: Test the maximum number of characters the text box can take
 
-#@EuroOffice
+#@Euroffice
 #Scenario: Click on a search result item and ensure it loads another page correctly
 
-#@EuroOffice
+#@Euroffice
 #Scenario: Test search result options like AND and OR
 
-#@EuroOffice
+#@Euroffice
 #Scenario: Search for a unique product name and check only 1 result returned
 
-#@EuroOffice
+#@Euroffice
 #Scenario: Does the search button work pressing enter and can you tab to it and select it - accessibility
 
-#@EuroOffice
+#@Euroffice
 #Scenario: Test for suggested results when typing a partial search item
 
-#@EuroOffice
+#@Euroffice
 #Scenario: Test mouse over event causing button appearance change
 
-#@EuroOffice
+#@Euroffice
 #Scenario: SQL Injection tests on search text box
 
-#@EuroOffice
+#@Euroffice
 #Scenario: Copy and paste into the field
 
-#@EuroOffice
+#@Euroffice
 #Scenario: Cross site scripting - try putting script tags in the search to test effect
 
-#@EuroOffice
+#@Euroffice
 #Scenario: Not really a separate scenario but a reminder to add multi browser support to
 #		   that all tests are run across different browsers
 

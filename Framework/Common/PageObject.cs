@@ -1,12 +1,12 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Interactions;
-using EuroOffice.Framework.Setup;
+using Euroffice.Framework.Setup;
 using System;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Drawing.Imaging;
 
-namespace EuroOffice.Framework.Common
+namespace Euroffice.Framework.Common
 {
     public abstract class PageObject
     {

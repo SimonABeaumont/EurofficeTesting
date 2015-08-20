@@ -1,6 +1,6 @@
 ﻿using OpenQA.Selenium.Support.PageObjects;
 
-namespace EuroOffice.Framework.Pages
+namespace Euroffice.Framework.Pages
 {
     //This class allows access to system pages through the tests
     public static class Pages

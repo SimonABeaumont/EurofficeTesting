@@ -11,7 +11,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace EuroOffice.Tests.Features
+namespace Euroffice.Tests.Features
 {
     using TechTalk.SpecFlow;
     
@@ -32,8 +32,8 @@ namespace EuroOffice.Tests.Features
         public virtual void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Search", "As a user on the EuroOffice website\nI am able to use the Search feature for produ" +
-                    "cts", ProgrammingLanguage.CSharp, ((string[])(null)));
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Search", "As a user on the Euroffice website\nI am able to use the Search feature for produc" +
+                    "ts", ProgrammingLanguage.CSharp, ((string[])(null)));
             testRunner.OnFeatureStart(featureInfo);
         }
         
@@ -67,11 +67,11 @@ namespace EuroOffice.Tests.Features
         
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Search Feature - for valid results")]
-        [NUnit.Framework.CategoryAttribute("EuroOffice")]
+        [NUnit.Framework.CategoryAttribute("Euroffice")]
         public virtual void SearchFeature_ForValidResults()
         {
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Search Feature - for valid results", new string[] {
-                        "EuroOffice"});
+                        "Euroffice"});
 #line 6
 this.ScenarioSetup(scenarioInfo);
 #line 7
@@ -88,11 +88,11 @@ this.ScenarioSetup(scenarioInfo);
         
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Search Feature - for invalid resuls")]
-        [NUnit.Framework.CategoryAttribute("EuroOffice")]
+        [NUnit.Framework.CategoryAttribute("Euroffice")]
         public virtual void SearchFeature_ForInvalidResuls()
         {
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Search Feature - for invalid resuls", new string[] {
-                        "EuroOffice"});
+                        "Euroffice"});
 #line 13
 this.ScenarioSetup(scenarioInfo);
 #line 14
@@ -109,11 +109,11 @@ this.ScenarioSetup(scenarioInfo);
         
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Compare Search Counts with and without speech marks")]
-        [NUnit.Framework.CategoryAttribute("EuroOffice")]
+        [NUnit.Framework.CategoryAttribute("Euroffice")]
         public virtual void CompareSearchCountsWithAndWithoutSpeechMarks()
         {
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Compare Search Counts with and without speech marks", new string[] {
-                        "EuroOffice"});
+                        "Euroffice"});
 #line 20
 this.ScenarioSetup(scenarioInfo);
 #line 21

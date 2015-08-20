@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NUnit.Framework;
 using TechTalk.SpecFlow;
 
-namespace EuroOffice.Framework.Hooks
+namespace Euroffice.Framework.Hooks
 {
     class BrowserHooks
     {

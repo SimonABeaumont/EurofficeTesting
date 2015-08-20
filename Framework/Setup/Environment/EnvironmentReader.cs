@@ -2,7 +2,7 @@
 using System.Configuration;
 using System.Linq;
 
-namespace EuroOffice.Framework.Setup
+namespace Euroffice.Framework.Setup
 {
     public static class EnvironmentReader
     {

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuroOffice.Framework", "Framework\EuroOffice.Framework.csproj", "{EF3A80F5-9CDD-48EC-99D1-BEBC78912952}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euroffice.Framework", "Framework\Euroffice.Framework.csproj", "{EF3A80F5-9CDD-48EC-99D1-BEBC78912952}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuroOffice.Tests", "Tests\EuroOffice.Tests.csproj", "{D12F9215-1EBD-4C07-9BA8-2C49DA0F4C42}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euroffice.Tests", "Tests\Euroffice.Tests.csproj", "{D12F9215-1EBD-4C07-9BA8-2C49DA0F4C42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

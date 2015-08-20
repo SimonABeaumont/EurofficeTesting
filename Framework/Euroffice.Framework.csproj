@@ -7,8 +7,8 @@
     <ProjectGuid>{EF3A80F5-9CDD-48EC-99D1-BEBC78912952}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EuroOffice.Framework</RootNamespace>
-    <AssemblyName>EuroOffice.Framework</AssemblyName>
+    <RootNamespace>Euroffice.Framework</RootNamespace>
+    <AssemblyName>Euroffice.Framework</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

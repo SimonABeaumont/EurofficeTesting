@@ -1,6 +1,6 @@
 using System.Configuration;
 
-namespace EuroOffice.Framework.Setup
+namespace Euroffice.Framework.Setup
 {
     public class EnvironmentsDataSection : ConfigurationSection
     {

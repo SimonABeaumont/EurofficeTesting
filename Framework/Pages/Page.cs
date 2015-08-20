@@ -1,8 +1,8 @@
 ﻿using System;
-using EuroOffice.Framework.Common;
-using EuroOffice.Framework.Setup;
+using Euroffice.Framework.Common;
+using Euroffice.Framework.Setup;
 
-namespace EuroOffice.Framework.Pages
+namespace Euroffice.Framework.Pages
 {
     public abstract class Page : PageObject
     {

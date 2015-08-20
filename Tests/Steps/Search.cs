@@ -1,8 +1,8 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TechTalk.SpecFlow;
-using EuroOffice.Framework.Pages;
+using Euroffice.Framework.Pages;
 
-namespace EuroOffice.Tests.Steps
+namespace Euroffice.Tests.Steps
 {
     [Binding]
     class Search
