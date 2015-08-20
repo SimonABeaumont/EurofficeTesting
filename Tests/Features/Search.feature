@@ -78,16 +78,7 @@ Scenario: Compare Search Counts with and without speech marks
 #@EuroOffice
 #Scenario: Cross site scripting - try putting script tags in the search to test effect
 
-
-
-
-
-
-
-
-
-
-
-
-
+#@EuroOffice
+#Scenario: Not really a separate scenario but a reminder to add multi browser support to
+#		   that all tests are run across different browsers
 
